@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Denisse
+- Hi, I’m Denisse
 - I like cat memes
 
 <!---

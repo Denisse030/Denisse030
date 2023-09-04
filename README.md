@@ -1,5 +1,4 @@
-- Hi, I’m Denisse
-- I like cat memes
+- Hello, my name is Denisse Benito.
 
 <!---
 Denisse030/Denisse030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
